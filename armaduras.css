@@ -1,0 +1,34 @@
+h1
+{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 19vh;
+}
+
+.respuestas{
+    display: flex;
+    justify-content: center;
+}
+input{
+    border: solid;
+}
+
+#botonRespuesta{
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+}
+label{
+    margin-right: 10px;
+}
